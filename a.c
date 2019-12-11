@@ -4,5 +4,8 @@ int main(void)
 {
     LOG("sheldon has touched this file!");
     LOG("1+1=1");
+    LOG("1+1=2");
+    int a;
+    a=a+1;
     return 0;
 }
